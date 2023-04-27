@@ -1,0 +1,18 @@
+{
+    "id": 66909,
+    "category": {
+      "id": 4444444,
+      "name": "categ_name_XUI"
+    },
+    "name": "name_XUI",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
